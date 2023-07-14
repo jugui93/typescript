@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript platzi course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Morales",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugui93/typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jugui93/typescript/issues"
+  },
+  "homepage": "https://github.com/jugui93/typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
